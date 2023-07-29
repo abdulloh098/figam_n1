@@ -1,0 +1,494 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+nav {
+
+    background: #fff;
+    width: 100%;
+    height: 80px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    color: black;
+    font-size: 35px;
+    line-height: 80px;
+    font-weight: bold;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+
+
+
+.checkbtn {
+    font-size: 30px;
+    color: #fff;
+    float: right;
+    line-height: 80px;
+    cursor: pointer;
+    display: none;
+}
+
+#check {
+    display: none;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.chap {
+    gap: 20px;
+}
+
+.ongtomon h1 {
+    font-size: 50px;
+
+}
+
+.ongtomon p {
+    padding: 40px 0;
+}
+
+.ongtomon button {
+    width: 250px;
+    height: 85.2908935546875px;
+    top: 476.7659912109375px;
+    left: 150px;
+    border-radius: 10px;
+
+    background: #F53838;
+    color: #fff;
+    border: none;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    gap: 50px;
+}
+
+.chaptomon {
+    margin-left: 20px;
+}
+
+.chaptomon img {
+    width: 100%;
+}
+
+section .bir {
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.divic {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.galochka {
+    padding: 8px;
+    display: flex;
+
+}
+
+.chaptomonga {
+    padding: 100px;
+    align-items: center;
+
+}
+
+.chaptomonga p {
+    padding: 8px;
+}
+
+.logo5 {
+    padding: 30px 100px;
+    height: max-content;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+}
+
+.logo5 img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.centrda {
+    height: max-content;
+    padding: 30px;
+    text-align: center;
+}
+
+.centrda p {
+    font-size: 25px;
+    padding: 20px;
+}
+
+.boxlar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
+.boxichi {
+    width: 330px;
+    height: 760px;
+    border-radius: 20px;
+
+    border: 1px solid #DDDDDD;
+}
+.boxichi p{
+
+   color:#4F5665;
+}
+
+.boxichi1 {
+    width: 330px;
+    height: 760px;
+
+   color:#4F5665;
+
+    border-radius: 20px;
+    border: 1px solid #F53838;
+}
+
+
+.boxichi1 img {
+    padding: 60px;
+}
+
+.boxichi1 p {
+
+    padding: 10px;
+}
+
+.boxichi img {
+    padding: 60px;
+}
+
+.twink {
+    align-items: center;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.twink button {
+    width: 250px;
+    height: 60px;
+
+    top: 4595.775390625px;
+    left: 970px;
+    border-radius: 10px;
+    background: #F53838;
+    color: #fff;
+    border: none;
+
+}
+
+.boxichi p {
+
+    padding: 10px;
+}
+
+.boxichi h2 {
+    margin-top: 90px;
+}
+
+.boxichi h2 {
+    margin-top: 90px;
+}
+
+.boxichi1 button {
+
+    align-items: center;
+    width: 150px;
+    height: 45px;
+    background: #F53838;
+    color: #fff;
+    border-radius: 50px;
+    margin-left: 20px;
+
+    border: 1px solid red;
+}
+
+.boxichi button {
+
+
+    align-items: center;
+    width: 150px;
+    height: 45px;
+    background: none;
+    color: #F53855;
+    border-radius: 50px;
+    margin-left: 20px;
+
+    border: 1px solid red;
+}
+
+.centrga {
+    width: 100%;
+    padding: 100px;
+}
+
+
+
+.centrda h1 {
+    font-size: 55px;
+}
+
+.continer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.parents {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+
+}
+
+.bir5 {
+    padding: 30px;
+    border: 1px solid #F53838;
+    border-radius: 6px;
+}
+
+.ikki2 {
+    padding: 30px;
+    border: 1px solid #DDDDDD;
+    border-radius: 6px;
+    ;
+    border-radius: 6px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    padding: 50px;
+}
+
+section button {
+    color: #fff;
+    width: 250px;
+    height: 60px;
+    top: 4595.775390625px;
+    left: 970px;
+    border-radius: 10px;
+    background: #F53838;
+    border: none;
+
+}
+.oraochiw{
+    padding: 200px 0;
+}
+
+footer {
+    padding: 0 90px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+
+}
+
+
+@media all and (max-width: 1099px) {
+
+    header {
+        height: max-content;
+        flex-direction: column-reverse;
+    }
+
+    .ongtomon,
+    .chaptomonga{
+        padding: 20px;
+    }
+    .galochka p {
+        text-align: center;
+    }
+
+
+}
+
+@media all and (max-width: 746px) {
+    section .bir {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media all and (max-width: 471px) {
+    section .bir {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media all and (max-width: 1976) {
+    .boxlar {
+
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+}
+
+@media all and(max-width: 1137px) {}
+
+@media all and (max-width: 952px) {
+    .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .logo {
+        font-size: 30px;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width: 858px) {
+    .container {
+        width: 100%;
+        padding: 0 30px;
+    }
+
+    .checkbtn {
+        display: block;
+    }
+
+    ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #2c3e50;
+        top: 80px;
+        right: -100%;
+        text-align: center;
+        transition: all 0.5s;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+
+    nav ul li a {
+        font-size: 20px;
+        color: #fff;
+    }
+
+    a:hover .active {
+        background: none;
+        color: #0082e6;
+    }
+
+    #check:checked~ul {
+        right: 0;
+    }
+
+    nav {
+
+        position: sticky;
+        top: 0;
+    }
+}
+
+@media all and (max-width: 943px) {
+    .logo5 {
+        padding: 30px 100px;
+        height: 200px;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 30px;
+    }
+}
+
+@media all and (max-width: 751px) {
+    .logo5 {
+        padding: 30px 100px;
+        height: 200px;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 3px;
+    }
+}
+
+@media all and (max-width: 571px) {
+    .logo5 {
+        padding: 30px 100px;
+        height: 200px;
+
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3px;
+    }
+}
+
+@media all and (max-width: 400px) {
+    .logo5 {
+        padding: 30px 100px;
+        height: 200px;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+}
+
+@media all and (max-width: 907px) {
+    .twink {
+        flex-direction: column;
+    }
+}
